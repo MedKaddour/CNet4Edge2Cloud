@@ -16,7 +16,7 @@ contracts = []
 managers = []
 contractors = {}
 type_of_deployment=""
-
+contractors_idx=1
 # Helper function to load schemas
 def load_schema(schema_name):
     with open(os.path.join('schemas', f'{schema_name}.json')) as schema_file:
@@ -43,10 +43,13 @@ def create_call_for_proposal():
 
     elif type_of_deployment == "FIFO":
         # Assign tasks to contractors in the order they were added
-        contractor_endpoints = list(contractors.keys())
-
-        chosen_contractor = contractor_endpoints[i % len(contractor_endpoints)]
-        send_task_to_contractor(data, chosen_contractor)
+        sorted_contractors = dict(sorted(contractors.items(), key=lambda item: item[1].contractor_id))
+        for contractor in sorted_contractors:
+            if contractor.available:
+                send_task_to_contractor(data, contractor)
+                break
+            else :
+                continue
 
     elif type_of_deployment == "RR":
         # Distribute tasks in a round-robin fashion
@@ -96,10 +99,13 @@ def create_manager():
 
 @app.route('/contractors', methods=['POST'])
 def create_contractor():
+    global contractors_idx
     data = request.json
     schema = load_schema('contractor')
     # Validate data against schemas (validation code can be added here)
     print(data)
+    data["contractor_id"]=contractors_idx
+    contractors_idx+=1
     contractor = Contractor(**data)
     contractors[str(contractor.endpoint)]=contractor
     return jsonify(data), 201

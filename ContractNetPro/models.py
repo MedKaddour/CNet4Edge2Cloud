@@ -50,8 +50,9 @@ class Manager:
         self.contracts_id = contracts_id
 
 class Contractor:
-    def __init__(self, contractor_id,endpoint, contractor_description, bid_id):
+    def __init__(self, contractor_id,endpoint, contractor_description, bid_id,available=True):
         self.contractor_id = contractor_id
         self.endpoint = endpoint
+        self.available = available
         self.contractor_description = contractor_description
         self.bid_id = bid_id

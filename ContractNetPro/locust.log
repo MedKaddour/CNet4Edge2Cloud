@@ -4,10 +4,9 @@
 [2024-07-25 12:38:13,191] MBP-de-sidi/INFO/locust.main: Starting Locust 2.29.1
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 908, in gevent._gevent_cgreenlet.Greenlet.run
-  File "/Users/sidimohammedkaddour/PycharmProjects/Contract Net/.venv/lib/python3.9/site-packages/locust/web.py", line 538, in start_server
-    self.server.serve_forever()
-  File "/Users/sidimohammedkaddour/PycharmProjects/Contract Net/.venv/lib/python3.9/site-packages/gevent/baseserver.py", line 398, in serve_forever
-    self.start()
+  File "/Users/sidimohammedkaddour/PycharmProjects/Contract Net/.venv/lib/python3.9/site-packages/locu[2024-07-25 13:10:43,090] MBP-de-sidi/INFO/locust.runners: Ramping to 1 users at a rate of 1.00 per second
+[2024-07-25 13:10:43,090] MBP-de-sidi/INFO/locust.runners: All users spawned: {"LoadTestUser": 1} (1 total users)
+ self.start()
   File "/Users/sidimohammedkaddour/PycharmProjects/Contract Net/.venv/lib/python3.9/site-packages/gevent/baseserver.py", line 336, in start
     self.init_socket()
   File "/Users/sidimohammedkaddour/PycharmProjects/Contract Net/.venv/lib/python3.9/site-packages/gevent/pywsgi.py", line 1668, in init_socket

@@ -385,3 +385,1565 @@ Failed to send task to 127.0.0.1:5002. Status code: 201
 127.0.0.1 - - [25/Jul/2024 12:49:49] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
 127.0.0.1 - - [25/Jul/2024 12:49:54] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
 127.0.0.1 - - [25/Jul/2024 12:49:57] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:50:01] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:50:05] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:50:09] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:50:13] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:50:15] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:50:19] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:50:21] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:50:25] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:50:30] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:50:32] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:50:36] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:50:38] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:50:39] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:50:41] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:50:42] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:50:45] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:50:49] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:50:51] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:50:55] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:50:59] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:00] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:05] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:06] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:07] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:12] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:14] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:17] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:20] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:22] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:25] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:27] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:29] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:34] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:36] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:40] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:42] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:44] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:47] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:52] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:57] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:51:59] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:52:03] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:52:05] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:52:10] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:52:11] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:52:13] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:52:18] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:52:20] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:52:25] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+127.0.0.1 - - [25/Jul/2024 12:52:27] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:52:28] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:52:32] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:52:33] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:52:35] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:52:39] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:52:43] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:52:45] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:52:48] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:52:50] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:52:54] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:52:57] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:52:59] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:53:01] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:53:06] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:53:08] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:53:12] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:53:17] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:53:22] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:53:26] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:53:28] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:53:32] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:53:34] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:53:38] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:53:41] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:53:44] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:53:45] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:53:47] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:53:52] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:53:56] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:53:58] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:54:02] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:54:05] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:54:09] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:54:13] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:54:16] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:54:19] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:54:22] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:54:26] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:54:30] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:54:32] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:54:37] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:54:41] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:54:46] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:54:48] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:54:50] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:54:54] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:54:58] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:00] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:04] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:07] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:09] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:11] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:14] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:18] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:19] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:22] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:25] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:29] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:31] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:33] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:37] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:40] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:44] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:48] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:51] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:55] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:56] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:55:59] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:56:02] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:56:07] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:56:08] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:56:12] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:56:16] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:56:19] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:56:23] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:56:24] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:56:27] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:56:31] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:56:34] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:56:35] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:56:38] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:56:40] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:56:44] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:56:48] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:56:51] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:56:54] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:56:59] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:57:03] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:57:06] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:57:10] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:57:15] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:57:17] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:57:18] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:57:23] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:57:26] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:57:27] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:57:30] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:57:33] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:57:35] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:57:36] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:57:38] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:57:40] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:57:43] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:57:47] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:57:51] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:57:53] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:57:58] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:00] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:02] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:03] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:05] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:07] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:09] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:14] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:16] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:18] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:19] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:22] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:26] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:28] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:30] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:35] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:38] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:40] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:44] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:49] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:51] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:52] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:58:56] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:59:01] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:59:04] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:59:05] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:59:10] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:59:12] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:59:17] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:59:18] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:59:19] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:59:22] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:59:24] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:59:25] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:59:27] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:59:31] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:59:32] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:59:36] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:59:41] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+127.0.0.1 - - [25/Jul/2024 12:59:45] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:59:48] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:59:51] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:59:55] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 12:59:57] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:00:01] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:00:04] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:00:09] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:00:11] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:00:16] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:00:21] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:00:25] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:00:26] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:00:30] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:00:34] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:00:37] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:00:41] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:00:43] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:00:45] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:00:47] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:00:48] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:00:51] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:00:56] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:00:58] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:01:03] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:01:05] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:01:10] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:01:13] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:01:18] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:01:21] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:01:24] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:01:27] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:01:29] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:01:33] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:01:36] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:01:38] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:01:42] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:01:45] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:01:49] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:01:53] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:01:55] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:01:57] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:02:00] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:02:04] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:02:07] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:02:10] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:02:12] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:02:13] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:02:18] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:02:21] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:02:26] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:02:30] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:02:35] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:02:39] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:02:43] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:02:44] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:02:48] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:02:52] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:02:54] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:02:56] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:03:01] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:03:05] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:03:07] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:03:11] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:03:14] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:03:18] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:03:23] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:03:26] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:03:28] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:03:30] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:03:32] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:03:34] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:03:37] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:03:41] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:03:46] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:03:50] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:03:52] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:03:57] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:02] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:03] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:06] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:09] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:10] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:12] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:14] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:15] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:18] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:23] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:25] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:28] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:32] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:36] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:38] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:40] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:41] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:45] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:48] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:50] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:51] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:53] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:57] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:04:58] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:02] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:05] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:08] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:11] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:16] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:18] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:19] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:23] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:27] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:30] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:34] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:35] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:37] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:40] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:41] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:46] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:48] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:49] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:54] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:56] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:05:57] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:00] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:03] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:04] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:06] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:10] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:12] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:13] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:17] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:20] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:22] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:24] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:27] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:31] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:33] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:38] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:41] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:44] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:46] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:48] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:51] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:55] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:06:57] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:07:01] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+127.0.0.1 - - [25/Jul/2024 13:07:04] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:07:09] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:07:10] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:07:12] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:07:16] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:07:21] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:07:24] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:07:28] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:07:31] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:07:35] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:07:40] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:07:43] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:07:48] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:07:52] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:07:57] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:00] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:04] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:06] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:09] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:10] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:12] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:16] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:17] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:20] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:23] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:28] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:30] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:34] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:35] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:38] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:42] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:45] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:48] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:52] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:53] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:57] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:08:59] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:09:01] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:09:05] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:09:10] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:09:12] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:09:17] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:09:21] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:09:23] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:09:28] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:09:29] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:09:32] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:09:36] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:09:41] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:09:43] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:09:46] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:09:50] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:09:52] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:09:56] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:09:59] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:10:02] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:10:07] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:10:10] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:10:13] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:10:14] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:10:17] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:10:19] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:10:20] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:10:25] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:10:29] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:10:30] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:10:31] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:10:34] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:10:43] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:10:45] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:10:49] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:10:51] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:10:55] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:10:57] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:10:59] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:02] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:04] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:06] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:11] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:14] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:16] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:20] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:23] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:26] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:27] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:30] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:32] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:35] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:37] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:39] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:41] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:43] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:48] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:50] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:54] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:57] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:11:59] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:12:03] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:12:07] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:12:12] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:12:17] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:12:20] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:12:24] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:12:25] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:12:29] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:12:31] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:12:33] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:12:37] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:12:40] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:12:45] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:12:48] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:12:52] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:12:57] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:00] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:02] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:06] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:09] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:11] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:12] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:15] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:18] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:21] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:24] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:27] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:29] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:31] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:36] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:38] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:42] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:44] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:48] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:50] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:51] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:54] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:13:58] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:14:00] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:14:04] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:14:09] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:14:11] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:14:14] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:14:17] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:14:21] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:14:23] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:14:27] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:14:29] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:14:33] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+127.0.0.1 - - [25/Jul/2024 13:14:35] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:14:37] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:14:41] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:14:43] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:14:45] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:14:49] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:14:53] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:14:55] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:14:57] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:01] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:04] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:08] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:11] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+ * Detected change in '/Users/sidimohammedkaddour/PycharmProjects/Contract Net/ContractNetPro/manager.py', reloading
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+ * Restarting with stat
+/Users/sidimohammedkaddour/PycharmProjects/Contract Net/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+ * Debugger is active!
+ * Debugger PIN: 911-972-188
+127.0.0.1 - - [25/Jul/2024 13:15:15] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:19] "[35m[1mPOST /contractors HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:19] "[35m[1mPOST /contractors HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:19] "[35m[1mPOST /contractors HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:20] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:24] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:26] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:30] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:34] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:36] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:38] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:40] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:43] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:47] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:48] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:49] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:53] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:57] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:15:59] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:16:03] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:16:06] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:16:09] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:16:14] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:16:18] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:16:20] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:16:22] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:16:27] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:16:32] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:16:34] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:16:36] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:16:38] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:16:39] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:16:41] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:16:45] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:16:47] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:16:50] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:16:55] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:16:57] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:01] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:04] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:09] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:10] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:12] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:14] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:17] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:19] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:21] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:23] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:24] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:29] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:34] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:37] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:40] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:42] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:44] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:48] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:52] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:55] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:17:58] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:01] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:03] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:07] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:12] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:13] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:16] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:17] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:20] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:25] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:27] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:29] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:31] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:34] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:39] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:42] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:44] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:47] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:52] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:53] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:58] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:18:59] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:03] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:08] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:09] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:10] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:15] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:16] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:18] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:20] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:23] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:28] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:30] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:32] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:33] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:37] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:42] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:47] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:48] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:50] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:51] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:52] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:54] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:19:58] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:20:00] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:20:02] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:20:04] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:20:09] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:20:14] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:20:15] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:20:17] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:20:20] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:20:25] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:20:28] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:20:33] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:20:35] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:20:40] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:20:42] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:20:44] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:20:46] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:20:49] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:20:54] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:20:57] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:01] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:04] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:06] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:07] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:11] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:13] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:14] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:18] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:22] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:23] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:26] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:30] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:35] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:39] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:42] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:46] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:47] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:52] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:55] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:57] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:21:59] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:22:02] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+{'contractor_id': 'some-id', 'contractor_description': 'some-description', 'endpoint': '127.0.0.1:5003', 'bid_id': 'some-bid-id'}
+{'contractor_id': 'some-id', 'contractor_description': 'some-description', 'endpoint': '127.0.0.1:5002', 'bid_id': 'some-bid-id'}
+{'contractor_id': 'some-id', 'contractor_description': 'some-description', 'endpoint': '127.0.0.1:5004', 'bid_id': 'some-bid-id'}
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+127.0.0.1 - - [25/Jul/2024 13:22:05] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:22:10] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:22:12] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:22:15] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:22:16] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:22:19] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:22:22] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:22:24] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:22:29] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:22:30] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:22:32] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:22:33] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:22:35] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:22:40] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:22:44] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:22:49] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:22:52] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:22:55] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:22:59] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:23:01] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:23:04] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:23:08] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:23:10] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:23:14] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:23:18] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:23:21] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:23:26] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:23:31] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:23:35] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:23:37] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:23:41] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:23:45] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:23:46] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:23:48] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:23:53] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:23:57] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:23:59] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:24:02] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:24:04] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:24:09] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:24:13] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:24:15] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:24:17] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:24:18] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:24:23] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:24:24] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:24:26] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:24:30] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:24:32] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:24:37] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:24:40] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:24:41] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:24:46] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:24:47] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:24:51] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:24:54] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:24:55] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:25:00] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:25:03] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:25:05] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:25:08] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:25:13] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:25:16] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:25:18] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:25:23] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:25:27] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:25:31] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:25:35] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:25:38] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:25:42] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:25:47] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:25:49] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:25:52] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:25:55] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:26:00] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:26:02] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:26:05] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:26:08] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:26:10] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:26:14] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:26:16] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:26:20] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:26:24] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+127.0.0.1 - - [25/Jul/2024 13:26:28] "[35m[1mPOST /create_cfp HTTP/1.1[0m" 201 -
+ * Detected change in '/Users/sidimohammedkaddour/PycharmProjects/Contract Net/ContractNetPro/manager.py', reloading
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5004. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+Failed to send task to 127.0.0.1:5002. Status code: 201
+Failed to send task to 127.0.0.1:5003. Status code: 201
+ * Restarting with stat
+  File "/Users/sidimohammedkaddour/PycharmProjects/Contract Net/ContractNetPro/manager.py", line 47
+    for 
+        ^
+SyntaxError: invalid syntax
