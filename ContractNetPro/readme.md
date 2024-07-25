@@ -40,5 +40,5 @@ This application is a distributed task management system implemented using Flask
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/distributed-task-management.git
-   cd distributed-task-management
+   git clone https://github.com/MedKaddour/CNet4Edge2Cloud.git
+   cd CNet4Edge2Cloud/ContractNetPro
