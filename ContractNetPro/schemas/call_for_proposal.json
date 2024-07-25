@@ -1,0 +1,15 @@
+{
+    "type": "object",
+    "properties": {
+        "call_for_proposal_id": { "type": "string" },
+        "manager_id": { "type": "string" },
+        "manager_description": { "type": "string" },
+        "task_description": { "type": "string" },
+        "contractor_selection_criterion": { "type": "string" },
+        "bid_selection_criterion": { "type": "string" },
+        "task_deadline": { "type": "string", "format": "date-time" },
+        "cfp_deadline": { "type": "string", "format": "date-time" },
+        "cfp_state": { "type": "string" }
+    },
+    "required": ["call_for_proposal_id", "manager_id", "manager_description", "task_description", "contractor_selection_criterion", "bid_selection_criterion", "task_deadline", "cfp_deadline", "cfp_state"]
+}

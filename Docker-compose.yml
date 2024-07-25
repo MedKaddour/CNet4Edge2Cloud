@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+  traffic_light_service:
+    build: ./TrafficLightService
+    ports:
+      - "5001:5000"
+  noise_service:
+    build: ./NoiseService
+    ports:
+      - "5002:5000"
+  air_quality_service:
+    build: ./AirQualityService
+    ports:
+      - "5003:5000"
+  video_detect_service:
+    build: ./VideoDetectService
+    ports:
+      - "5004:5000"
+  locust:
+    image: locustio/locust
+    volumes:
+      - ./locustfile.py:/locustfile.py
+    command: -f /locustfile.py  -L=DEBUG
+    ports:
+      - "8089:8089"

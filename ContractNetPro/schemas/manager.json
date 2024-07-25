@@ -1,0 +1,21 @@
+{
+    "type": "object",
+    "properties": {
+        "manager_id": { "type": "string" },
+        "manager_description": { "type": "string" },
+        "contractors_id": {
+            "type": "array",
+            "items": { "type": "string" }
+        },
+        "call_for_proposal_id": { "type": "string" },
+        "bids_id": {
+            "type": "array",
+            "items": { "type": "string" }
+        },
+        "contracts_id": {
+            "type": "array",
+            "items": { "type": "string" }
+        }
+    },
+    "required": ["manager_id", "manager_description", "contractors_id", "call_for_proposal_id", "bids_id", "contracts_id"]
+}

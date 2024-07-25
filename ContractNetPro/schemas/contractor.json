@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "contractor_id": { "type": "string" },
+        "contractor_description": { "type": "string" },
+        "bid_id": { "type": "string" }
+    },
+    "required": ["contractor_id", "contractor_description", "bid_id"]
+}
