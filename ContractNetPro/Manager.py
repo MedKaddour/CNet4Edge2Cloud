@@ -1,6 +1,6 @@
 import argparse
 import random
-
+import threading
 import requests
 from flask import Flask, request, jsonify
 from models import CallForProposal, Bid, Contract, Manager, Contractor
@@ -15,12 +15,19 @@ bids = []
 contracts = []
 managers = []
 contractors = {}
-type_of_deployment=""
-contractors_idx=1
-# Helper function to load schemas
+deployment_type = ""
+contractor_id_counter = 1
+round_robin_index = 1
+
+# Create a lock for thread-safe operations
+lock = threading.Lock()
+
+# Helper function to load JSON schemas
 def load_schema(schema_name):
     with open(os.path.join('schemas', f'{schema_name}.json')) as schema_file:
         return json.load(schema_file)
+
+# Function to send a task to a contractor's endpoint
 def send_task_to_contractor(task, contractor_endpoint):
     try:
         response = requests.post(f'http://{contractor_endpoint}/execute_task', json=task)
@@ -30,38 +37,39 @@ def send_task_to_contractor(task, contractor_endpoint):
             print(f"Failed to send task to {contractor_endpoint}. Status code: {response.status_code}")
     except Exception as e:
         print(f"An error occurred while sending task to {contractor_endpoint}: {e}")
+
 @app.route('/create_cfp', methods=['POST'])
 def create_call_for_proposal():
+    global round_robin_index
     data = request.json
 
-    if type_of_deployment == "RAND":
+    if deployment_type == "RAND":
         # Randomly assign tasks to contractors
         contractor_endpoints = list(contractors.keys())
         if contractor_endpoints:
             chosen_contractor = random.choice(contractor_endpoints)
             send_task_to_contractor(data, chosen_contractor)
 
-    elif type_of_deployment == "FIFO":
+    elif deployment_type == "FIFO":
         # Assign tasks to contractors in the order they were added
-        sorted_contractors = dict(sorted(contractors.items(), key=lambda item: item[1].contractor_id))
-        for contractor in sorted_contractors:
-            if contractor.available:
-                send_task_to_contractor(data, contractor)
-                break
-            else :
-                continue
+        if contractors:
+            sorted_contractors = dict(sorted(contractors.items(), key=lambda item: item[1].contractor_id))
+            for endpoint in sorted_contractors.keys():
+                if sorted_contractors[endpoint].available:
+                    send_task_to_contractor(data, endpoint)
+                    break
 
-    elif type_of_deployment == "RR":
+    elif deployment_type == "RR":
         # Distribute tasks in a round-robin fashion
-        contractor_endpoints = list(contractors.keys())
-        for i, task in enumerate(data):
-            chosen_contractor = contractor_endpoints[i % len(contractor_endpoints)]
-            send_task_to_contractor(task, chosen_contractor)
+        if contractors:
+            with lock:
+                contractor_endpoints = list(contractors.keys())
+                chosen_contractor = contractor_endpoints[round_robin_index - 1]
+                round_robin_index = (round_robin_index % len(contractor_endpoints)) + 1
+                send_task_to_contractor(data, chosen_contractor)
 
-    elif type_of_deployment == "CNET":
+    elif deployment_type == "CNET":
         # Assign tasks based on Contract Net Protocol
-        # For simplicity, assume all contractors can handle all tasks
-
         best_bid = None
         best_contractor = None
         for contractor in contractors.values():
@@ -87,7 +95,6 @@ def create_bid():
     bids.append(bid)
     return jsonify(data), 201
 
-
 @app.route('/managers', methods=['POST'])
 def create_manager():
     data = request.json
@@ -98,23 +105,22 @@ def create_manager():
     return jsonify(data), 201
 
 @app.route('/contractors', methods=['POST'])
-def create_contractor():
-    global contractors_idx
+def register_contractor():
+    global contractor_id_counter
     data = request.json
     schema = load_schema('contractor')
     # Validate data against schemas (validation code can be added here)
-    print(data)
-    data["contractor_id"]=contractors_idx
-    contractors_idx+=1
+    data["contractor_id"] = contractor_id_counter
+    contractor_id_counter += 1
     contractor = Contractor(**data)
-    contractors[str(contractor.endpoint)]=contractor
+    contractors[str(contractor.endpoint)] = contractor
     return jsonify(data), 201
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Run the Flask server with specified options.')
     parser.add_argument('--host', default='127.0.0.1', help='Hostname to listen on (default: 127.0.0.1)')
     parser.add_argument('--port', type=int, default=5001, help='Port to listen on (default: 5001)')
-    parser.add_argument('--tod',  default='RAND', help='type of deployement')
+    parser.add_argument('--deployment-type', default='RR', help='Type of deployment (e.g., RAND, FIFO, RR, CNET)')
     args = parser.parse_args()
-    type_of_deployment=args.tod
+    deployment_type = args.deployment_type
     app.run(host=args.host, port=args.port, debug=True)
