@@ -1,7 +1,7 @@
 from datetime import datetime
 
 class CallForProposal:
-    def __init__(self, call_for_proposal_id, manager_id, manager_description,tasks, task_description,
+    def __init__(self, call_for_proposal_id, manager_id, manager_description, tasks, task_description,
                  contractor_selection_criterion, bid_selection_criterion, task_deadline, cfp_deadline, cfp_state):
         self.call_for_proposal_id = call_for_proposal_id
         self.manager_id = manager_id

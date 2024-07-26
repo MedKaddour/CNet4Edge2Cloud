@@ -16,7 +16,7 @@ MANAGER_ENDPOINT="127.0.0.1:$MANAGER_PORT"
 
 # Launch Manager
 echo "Starting Manager service on port $MANAGER_PORT..."
-nohup python $MANAGER_SCRIPT --port $MANAGER_PORT > logs/manager.log 2>&1 &
+#nohup python $MANAGER_SCRIPT --port $MANAGER_PORT > logs/manager.log 2>&1 &
 
 # Launch Contractors
 echo "Starting Contractor services on ports $CONTRACTOR1_PORT, $CONTRACTOR2_PORT, and $CONTRACTOR3_PORT..."

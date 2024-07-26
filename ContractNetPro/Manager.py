@@ -26,6 +26,24 @@ lock = threading.Lock()
 def load_schema(schema_name):
     with open(os.path.join('schemas', f'{schema_name}.json')) as schema_file:
         return json.load(schema_file)
+def send_cfp_to_contractor(contract, contractor_endpoint):
+    """
+    Sends a cfp to the contractor endpoint.
+
+    Parameters:
+    - contract (dict): The contract data to send.
+    - contractor_endpoint (str): The contractor's endpoint URL.
+
+    Returns:
+    - dict: The response from the contractor.
+    """
+    try:
+        response = requests.post(f'http://{contractor_endpoint}/call_for_proposals', json=contract)
+        response.raise_for_status()  # Raises an HTTPError if the response status is 4xx, 5xx
+        return response.json()
+    except requests.exceptions.RequestException as e:
+        print(f"An error occurred while sending contract to {contractor_endpoint}: {e}")
+        return None
 
 # Function to send a task to a contractor's endpoint
 def send_task_to_contractor(task, contractor_endpoint):
@@ -73,15 +91,14 @@ def create_call_for_proposal():
         best_bid = None
         best_contractor = None
         for contractor in contractors.values():
-            bid = contractor.bid_for_task(data)
-            if best_bid is None or bid < best_bid:
-                best_bid = bid
+            bid = send_cfp_to_contractor(data,contractor.endpoint)
+            if best_bid is None or bid['answer_criterion_cfp'] < best_bid:
+                best_bid = bid['answer_criterion_cfp']
                 best_contractor = contractor
         if best_contractor:
             send_task_to_contractor(data, best_contractor.endpoint)
 
     schema = load_schema('call_for_proposal')
-    # Validate data against schemas (validation code can be added here)
     #call_for_proposal = CallForProposal(**data)
     #call_for_proposals.append(call_for_proposal)
     return jsonify(data), 201
@@ -90,7 +107,7 @@ def create_call_for_proposal():
 def create_bid():
     data = request.json
     schema = load_schema('bid')
-    # Validate data against schemas (validation code can be added here)
+    
     bid = Bid(**data)
     bids.append(bid)
     return jsonify(data), 201
@@ -99,7 +116,7 @@ def create_bid():
 def create_manager():
     data = request.json
     schema = load_schema('manager')
-    # Validate data against schemas (validation code can be added here)
+    
     manager = Manager(**data)
     managers.append(manager)
     return jsonify(data), 201
@@ -109,7 +126,7 @@ def register_contractor():
     global contractor_id_counter
     data = request.json
     schema = load_schema('contractor')
-    # Validate data against schemas (validation code can be added here)
+    
     data["contractor_id"] = contractor_id_counter
     contractor_id_counter += 1
     contractor = Contractor(**data)
@@ -120,7 +137,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Run the Flask server with specified options.')
     parser.add_argument('--host', default='127.0.0.1', help='Hostname to listen on (default: 127.0.0.1)')
     parser.add_argument('--port', type=int, default=5001, help='Port to listen on (default: 5001)')
-    parser.add_argument('--deployment-type', default='RR', help='Type of deployment (e.g., RAND, FIFO, RR, CNET)')
+    parser.add_argument('--deployment-type', default='CNET', help='Type of deployment (e.g., RAND, FIFO, RR, CNET)')
     args = parser.parse_args()
     deployment_type = args.deployment_type
     app.run(host=args.host, port=args.port, debug=True)

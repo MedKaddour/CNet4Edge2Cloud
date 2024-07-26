@@ -1,13 +1,15 @@
 import argparse
 import threading
 import time
+import random
+
 import requests
 from flask import Flask, request, jsonify
 from models import CallForProposal, Bid, Contract, Manager, Contractor
 import json
 import os
 import subprocess
-
+import uuid
 app = Flask(__name__)
 
 # In-memory storage
@@ -69,17 +71,31 @@ def execute_tasks():
 def create_call_for_proposal():
     data = request.json
     schema = load_schema('call_for_proposal')
-    # Validate data against schemas (validation code can be added here)
+
     call_for_proposal = CallForProposal(**data)
     call_for_proposals.append(call_for_proposal)
-    return jsonify(data), 201
+    #test
+    bid = {
+        "bid_id": str(uuid.uuid4()),
+        "contractor_id": "contractor_123",
+        "contractor_description": "Example contractor description",
+        "call_for_proposal_id": data["call_for_proposal_id"],
+        "manager_id": data["manager_id"],
+        "answer_criterion_cfp":random.randint(0, 100),
+        "answer_task_deadline": data["task_deadline"],
+        "eligibility_bid": True,
+        "row_bid": 1,
+        "bid_state": "pending"
+    }
+
+    return jsonify(bid), 201
 
 
 @app.route('/bids', methods=['POST'])
 def create_bid():
     data = request.json
     schema = load_schema('bid')
-    # Validate data against schemas (validation code can be added here)
+
     bid = Bid(**data)
     bids.append(bid)
     return jsonify(data), 201
@@ -89,7 +105,7 @@ def create_bid():
 def create_contract():
     data = request.json
     schema = load_schema('contract')
-    # Validate data against schemas (validation code can be added here)
+
     contract = Contract(**data)
     contracts.append(contract)
     return jsonify(data), 201
@@ -99,7 +115,7 @@ def create_contract():
 def create_manager():
     data = request.json
     schema = load_schema('manager')
-    # Validate data against schemas (validation code can be added here)
+
     manager = Manager(**data)
     managers.append(manager)
     return jsonify(data), 201
@@ -109,7 +125,7 @@ def create_manager():
 def create_contractor():
     data = request.json
     schema = load_schema('contractor')
-    # Validate data against schemas (validation code can be added here)
+
     contractor = Contractor(**data)
     contractors.append(contractor)
     return jsonify(data), 201

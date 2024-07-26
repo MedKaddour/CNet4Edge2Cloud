@@ -5,7 +5,7 @@ MANAGER_PORT=5001
 CONTRACTOR1_PORT=5002
 CONTRACTOR2_PORT=5003
 CONTRACTOR3_PORT=5004
-
+LOCUST_PORT=8089
 # Function to kill process on a specific port
 kill_process_on_port() {
     PORT=$1
@@ -28,5 +28,6 @@ echo "Stopping Contractor services on ports $CONTRACTOR1_PORT, $CONTRACTOR2_PORT
 kill_process_on_port $CONTRACTOR1_PORT
 kill_process_on_port $CONTRACTOR2_PORT
 kill_process_on_port $CONTRACTOR3_PORT
+#kill_process_on_port $LOCUST_PORT
 
 echo "All specified services have been stopped."
