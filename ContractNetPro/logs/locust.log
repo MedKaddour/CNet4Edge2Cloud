@@ -1,7 +1,7 @@
 /Users/sidimohammedkaddour/PycharmProjects/Contract Net/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
   warnings.warn(
-[2024-07-26 17:08:32,946] MacBook-Pro-de-sidi/INFO/locust.main: Starting web interface at http://0.0.0.0:8089
-[2024-07-26 17:08:32,950] MacBook-Pro-de-sidi/INFO/locust.main: Starting Locust 2.29.1
+[2024-07-29 14:39:11,782] MacBook-Pro-de-sidi/INFO/locust.main: Starting web interface at http://0.0.0.0:8089
+[2024-07-29 14:39:11,787] MacBook-Pro-de-sidi/INFO/locust.main: Starting Locust 2.29.1
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 908, in gevent._gevent_cgreenlet.Greenlet.run
   File "/Users/sidimohammedkaddour/PycharmProjects/Contract Net/.venv/lib/python3.9/site-packages/locust/web.py", line 538, in start_server
@@ -21,9 +21,9 @@ Traceback (most recent call last):
   File "/Users/sidimohammedkaddour/PycharmProjects/Contract Net/.venv/lib/python3.9/site-packages/gevent/_socketcommon.py", line 547, in bind
     return self._sock.bind(address)
 OSError: [Errno 48] Address already in use: ('', 8089)
-2024-07-26T15:08:32Z <Greenlet at 0x102d93e00: <bound method WebUI.start_server of <locust.web.WebUI object at 0x102d9af70>>> failed with OSError
+2024-07-29T12:39:11Z <Greenlet at 0x104babe00: <bound method WebUI.start_server of <locust.web.WebUI object at 0x104bb2f70>>> failed with OSError
 
-[2024-07-26 17:08:32,955] MacBook-Pro-de-sidi/CRITICAL/locust.web: Unhandled exception in greenlet: <Greenlet at 0x102d93e00: <bound method WebUI.start_server of <locust.web.WebUI object at 0x102d9af70>>>
+[2024-07-29 14:39:11,793] MacBook-Pro-de-sidi/CRITICAL/locust.web: Unhandled exception in greenlet: <Greenlet at 0x104babe00: <bound method WebUI.start_server of <locust.web.WebUI object at 0x104bb2f70>>>
 Traceback (most recent call last):
   File "src/gevent/greenlet.py", line 908, in gevent._gevent_cgreenlet.Greenlet.run
   File "/Users/sidimohammedkaddour/PycharmProjects/Contract Net/.venv/lib/python3.9/site-packages/locust/web.py", line 538, in start_server
@@ -43,7 +43,7 @@ Traceback (most recent call last):
   File "/Users/sidimohammedkaddour/PycharmProjects/Contract Net/.venv/lib/python3.9/site-packages/gevent/_socketcommon.py", line 547, in bind
     return self._sock.bind(address)
 OSError: [Errno 48] Address already in use: ('', 8089)
-[2024-07-26 17:08:32,955] MacBook-Pro-de-sidi/INFO/locust.main: Shutting down (exit code 2)
+[2024-07-29 14:39:11,793] MacBook-Pro-de-sidi/INFO/locust.main: Shutting down (exit code 2)
 Type     Name                                                                          # reqs      # fails |    Avg     Min     Max    Med |   req/s  failures/s
 --------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
 --------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
